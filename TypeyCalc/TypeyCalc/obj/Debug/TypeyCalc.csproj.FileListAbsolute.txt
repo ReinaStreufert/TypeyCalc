@@ -1,0 +1,10 @@
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\bin\Debug\TypeyCalc.exe.config
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\bin\Debug\TypeyCalc.exe
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\bin\Debug\TypeyCalc.pdb
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\obj\Debug\TypeyCalc.Form1.resources
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\obj\Debug\TypeyCalc.Properties.Resources.resources
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\obj\Debug\TypeyCalc.csproj.GenerateResource.Cache
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\obj\Debug\TypeyCalc.exe
+c:\users\carson\documents\visual studio 2015\Projects\TypeyCalc\TypeyCalc\obj\Debug\TypeyCalc.pdb
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\TypeyCalc\TypeyCalc\bin\Debug\TypeyCalc.exe.CodeAnalysisLog.xml
+C:\Users\Carson\Documents\Visual Studio 2015\Projects\TypeyCalc\TypeyCalc\bin\Debug\TypeyCalc.exe.lastcodeanalysissucceeded
